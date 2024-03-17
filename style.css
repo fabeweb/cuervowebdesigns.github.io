@@ -1,0 +1,69 @@
+.body{
+    background-color: rgb(62, 61, 59);
+}
+.container-fluid{
+    color: black;
+}
+.imgp{
+    width: 1600px;
+    height: 650px;
+}
+
+.link{
+    background-color: rgb(10, 10, 10);
+    margin-left: 730px;
+    font-size: 1rem;
+    color: aliceblue;
+    padding: 10px;
+    text-decoration-line: none;
+    text-transform: uppercase;
+}
+p{
+    text-align: center;
+    color: aliceblue
+    
+}
+.candado{
+    width: 150px;
+    margin-left: 500px;
+    
+}
+.textcan{
+    margin-left: 450px;
+    color: aliceblue;
+    margin-top: 20px;
+
+    
+}
+.ingresa{
+    text-align: center;
+   color: aliceblue;
+}
+.mundo{
+    width: 150px;
+    margin-left: 210px;
+}
+.icon{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.mundotxt{
+    color: aliceblue;
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.logo{
+    width: 600px;
+    height: 70px;
+    margin-left: -240px;
+}
+.porque{
+    text-align: center;
+    color: rgb(238, 242, 245);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "Slackside One", cursive;
+    font-weight: 400;
+    font-style: normal;
+    size: 1rem;
+}
